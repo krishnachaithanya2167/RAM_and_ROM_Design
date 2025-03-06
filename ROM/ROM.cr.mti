@@ -1,0 +1,15 @@
+{D:/Verilog Projects/RAM and ROM/ROM/design.v} {1 {vlog -work work -stats=none {D:/Verilog Projects/RAM and ROM/ROM/design.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} {D:/Verilog Projects/RAM and ROM/ROM/testbench.v} {1 {vlog -work work -stats=none {D:/Verilog Projects/RAM and ROM/ROM/testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom_tb
+
+Top level modules:
+	rom_tb
+
+} {} {}}

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Verilog
+vdual_port_ram
+!s110 1741259245
+!i10b 1
+!s100 ZLaN5f`SWHYh8bJJi@1nB0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Izn7?LHDdLgT@fL=IPXkmk1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Verilog Projects/RAM and ROM/Dual Port RAM
+w1741259100
+8D:/Verilog Projects/RAM and ROM/Dual Port RAM/design.v
+FD:/Verilog Projects/RAM and ROM/Dual Port RAM/design.v
+!i122 0
+L0 3 28
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1741259245.000000
+!s107 D:/Verilog Projects/RAM and ROM/Dual Port RAM/design.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog Projects/RAM and ROM/Dual Port RAM/design.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdual_port_ram_tb
+!s110 1741259246
+!i10b 1
+!s100 7TOzom<HBo;nMN1BKG8Vj0
+R0
+I@eQYfHTV:e:TO`@XOJJ:T2
+R1
+R2
+w1741259121
+8D:/Verilog Projects/RAM and ROM/Dual Port RAM/testbench.v
+FD:/Verilog Projects/RAM and ROM/Dual Port RAM/testbench.v
+!i122 1
+L0 3 72
+R3
+r1
+!s85 0
+31
+!s108 1741259246.000000
+!s107 D:/Verilog Projects/RAM and ROM/Dual Port RAM/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog Projects/RAM and ROM/Dual Port RAM/testbench.v|
+!i113 1
+R4
+R5
